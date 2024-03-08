@@ -35,7 +35,7 @@ To run the Advice App locally on your machine, follow these steps:
     ```
 5. Open your browser and visit http://localhost:3000 to view the app.
 
-Alternatively, you can visit the deployed version of the app here.
+Alternatively, you can visit the deployed version of the app [here](https://shubhankar2003.github.io/Advice_App_React/).
 
 ## Technologies Used
 - React.js
